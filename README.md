@@ -15,7 +15,7 @@ If you already have access to a linux environment skip this part and proceed to 
 
 There are multiple ways to get access to a linux environment. 2 will be provided here, but feel free to use a different method if you prefer. 
 
-(Cloud Method)[cloudmethod.md]
+(Cloud Method)[cloudmethod.md] (recomended)
 
 (Virtulbox Method)[virtualbox_method.md]
 
@@ -97,13 +97,6 @@ sudo ufw enable
 
 6. Install the [Dependency Analytics Plugin](https://marketplace.visualstudio.com/items?itemName=redhat.fabric8-analyticshttps://marketplace.visualstudio.com/items?itemName=redhat.fabric8-analyticshttps://marketplace.visualstudio.com/items?itemName=redhat.fabric8-analytics)
 
-7. Install [Python's Bandit Module](https://bandit.readthedocs.io/en/latest/)
-```bash
-pip install bandit
-```
-
-8. Install [Python's Dependency Check Module](https://pypi.org/project/dependency-check/)
-
-9. [Setup GitHub and SSH](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh)
+7. [Setup GitHub and SSH](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh)
 
 
