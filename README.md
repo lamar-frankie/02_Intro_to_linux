@@ -15,9 +15,9 @@ If you already have access to a linux environment skip this part and proceed to 
 
 There are multiple ways to get access to a linux environment. 2 will be provided here, but feel free to use a different method if you prefer. 
 
-(Cloud Method)[cloudmethod.md] (recomended)
+[Cloud Method](cloudmethod.md) (recomended)
 
-(Virtulbox Method)[virtualbox_method.md]
+[Virtulbox Method](virtualbox_method.md)
 
 
 ## Part 1 Exploring Linux
