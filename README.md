@@ -96,7 +96,7 @@ sudo ufw enable
 
 5. Install the [Security Scan Plugin](https://marketplace.visualstudio.com/items?itemName=shiftleftsecurity.shiftleft-scan)
 
-6. Install the [Dependency Analytics Plugin](https://marketplace.visualstudio.com/items?itemName=redhat.fabric8-analyticshttps://marketplace.visualstudio.com/items?itemName=redhat.fabric8-analyticshttps://marketplace.visualstudio.com/items?itemName=redhat.fabric8-analytics)
+6. Install the [Dependency Analytics Plugin](https://marketplace.visualstudio.com/items?itemName=redhat.fabric8-analytics)
 
 7. [Setup GitHub and SSH](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh)
 
